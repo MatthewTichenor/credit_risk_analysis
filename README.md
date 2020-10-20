@@ -1,1 +1,3 @@
 # credit_risk_analysis
+
+## When looking at the analysis we see a couple results. Our balance accuarcy when using random forrest was .78. But when we put the data in AdaBoost Classifier we got a accuracy score of .93.  This is good in showing the the supervise learning machine is showing with more data the results are more closer to the 1.0 marker. The models we used are okay to use to calucate credit risk as they are closing showing accurate accounts of the data. I would try random tree when this series just to see if the machine coulde closer to that 1.0 maker but if anything the models that we used could accurately display the results needed.
